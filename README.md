@@ -1,0 +1,1 @@
+Basic Application that tries to implement ECommerce like application made with MERN Stack.
